@@ -289,7 +289,7 @@
                Console.WriteLine("su perro grande debe comer entre 530  gr");
 				break;
                     case 5:
-				Console.WriteLine("OPCION NO DISPONIBLE");
+				Console.WriteLine("su perro grande debe comer entre 530  gr");
 		        break;
 					
                }
