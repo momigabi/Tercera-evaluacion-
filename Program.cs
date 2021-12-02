@@ -288,6 +288,9 @@
 					case 4:
                Console.WriteLine("su perro grande debe comer entre 530  gr");
 				break;
+                    case 5:
+				Console.WriteLine("OPCION NO DISPONIBLE");
+		        break;
 					
                }
                }
@@ -307,6 +310,9 @@
 					case 4:
                Console.WriteLine("su perro grande debe comer entre 625  gr");
 				break;
+                     case 5:
+				Console.WriteLine("OPCION NO DISPONIBLE");
+		        break;
 					
                }
                }
@@ -323,6 +329,12 @@
 					case 3:
                Console.WriteLine("su perro grande debe comer entre 685 gr");
 				break;
+                    case 4:
+               Console.WriteLine("OPCION NO DISPONIBLE");
+				break;
+                    case 5:
+				Console.WriteLine("OPCION NO DISPONIBLE");
+		        break;
 					
 					
                }
@@ -337,6 +349,15 @@
 					case 2:
               Console.WriteLine("su perro  grande debe de comer entre 670 gr");
 				break;
+                     case 3:
+               Console.WriteLine("OPCION NO DISPONIBLE");
+				break;
+					case 4:
+               Console.WriteLine("OPCION NO DISPONIBLE");
+				break;
+                    case 5:
+				Console.WriteLine("OPCION NO DISPONIBLE");
+		        break;
 					
                }
                }
@@ -347,6 +368,18 @@
 					case 1:
 			   Console.WriteLine("su perro grande debe comer de 580  gr");
 				break;
+                    case 2:
+              Console.WriteLine("OPCION NO DISPONIBLE");
+				break;
+					case 3:
+               Console.WriteLine("OPCION NO DISPONIBLE");
+				break;
+					case 4:
+               Console.WriteLine("OPCION NO DISPONIBLE");
+				break;
+                    case 5:
+				Console.WriteLine("OPCION NO DISPONIBLE");
+		        break;
 					
 					
                }
