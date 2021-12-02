@@ -1,5 +1,5 @@
-﻿int meses =0;		
-		string dato = "";
+﻿            int meses =0;		
+		    string dato = "";
             int opcion = 0;
             int ActividadPerro = 0;
             int peso = 0;
@@ -11,8 +11,8 @@
 
 
             Console.WriteLine("¿Tu perro es un cachorro o un adulto:");
-            Console.WriteLine("1- adulto");
-            Console.WriteLine("2- cachorro");
+            Console.WriteLine("1- Adulto");
+            Console.WriteLine("2- Cachorro");
             dato = Console.ReadLine();
             edad = Convert.ToInt32(dato);
 
